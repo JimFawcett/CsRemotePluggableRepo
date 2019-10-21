@@ -1,0 +1,52 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun  8 16:34:56 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\Checkin"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      42
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Checkin.cs   namespace                PluggableRepository      49     563      41
+                Checkin.cs       class                            Checkin      56     259      26
+                Checkin.cs    function                            Checkin      64       8       1
+                Checkin.cs    function                        stagingPath      75       3       1
+                Checkin.cs    function                        storagePath      81       3       1
+                Checkin.cs    function                  storageFolderSpec      90       9       1
+                Checkin.cs    function                    extractCategory     102       7       1
+                Checkin.cs    function                    extractFileName     112       7       1
+                Checkin.cs    function                       loadMetaData     125      17       2
+                Checkin.cs    function                          doCheckin     148      33       3
+                Checkin.cs    function                 findStoredMetaData     187      33       3
+                Checkin.cs    function                    showFoundStatus     223       7       1
+                Checkin.cs    function                       editMetadata     238      32       4
+                Checkin.cs    function                    addDependencies     275      29       3
+                Checkin.cs    function                        testCheckin     309       4       1
+                Checkin.cs       class                        TestCheckin     318     294      14
+                Checkin.cs    function                        TestCheckin     324       3       1
+                Checkin.cs    function                          testSetup     330      15       1
+                Checkin.cs    function                   testPathHandling     350      35       1
+                Checkin.cs    function             testFindStoredMetaData     388      50       1
+                Checkin.cs    function                      testDoCheckin     445      54       2
+                Checkin.cs    function                   testEditMetadata     505      32       3
+                Checkin.cs    function                testAddDependencies     543      29       2
+                Checkin.cs    function                        testCheckin     575      25       1
+                Checkin.cs    function                               Main     602       8       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Checkin.cs    function                      testDoCheckin     445      54       2
+
+
+
+    searched     8 dirs
+   processed     5 files

@@ -1,0 +1,34 @@
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\MetaData.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\MetaData.exe
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\MetaData\bin\Debug\IPluggable.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\MetaData.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\MetaData.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\MetaData.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\MetaData\obj\Debug\MetaData.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\MetaData\obj\Debug\MetaData.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\MetaData\obj\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\MetaData.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\MetaData.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\MetaData\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\MetaData.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\MetaData.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\MetaData.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\MetaData\obj\Debug\MetaData.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\MetaData\obj\Debug\MetaData.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\MetaData\obj\Debug\MetaData.pdb

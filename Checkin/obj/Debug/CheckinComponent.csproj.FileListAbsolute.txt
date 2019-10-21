@@ -1,0 +1,29 @@
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\CheckinComponent.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\CheckinComponent.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\CheckinComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\MetaData.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\StorageComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\MetaData.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\StorageComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkin\bin\Debug\VersionComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\CheckinComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\CheckinComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\CheckinComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Checkin\obj\Debug\CheckinComponent.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Checkin\obj\Debug\CheckinComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Checkin\obj\Debug\CheckinComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\CheckinComponent.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\CheckinComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\CheckinComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Checkin\obj\Debug\CheckinComponent.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Checkin\obj\Debug\CheckinComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Checkin\obj\Debug\CheckinComponent.pdb

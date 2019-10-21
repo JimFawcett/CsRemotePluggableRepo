@@ -1,0 +1,60 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun  8 16:36:23 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      72
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Storage.cs   namespace                PluggableRepository      53     559      71
+                Storage.cs       class                            Storage      55     298      45
+                Storage.cs    function                            Storage      62       9       2
+                Storage.cs    function                           ~Storage      74       3       1
+                Storage.cs    function                      createStorage      80       9       2
+                Storage.cs    function                        stagingPath      92       3       1
+                Storage.cs    function                    stagingFilePath      98       3       1
+                Storage.cs    function                        storagePath     104       3       1
+                Storage.cs    function                    storageFilePath     110       3       1
+                Storage.cs    function                            addFile     126      30       5
+                Storage.cs    function                       retrieveFile     161      13       2
+                Storage.cs    function                           findFile     177      18       4
+                Storage.cs    function                       findVersions     198       8       1
+                Storage.cs    function                         deleteFile     209       3       1
+                Storage.cs    function                     loadCategories     218      18       4
+                Storage.cs    function                     saveCategories     239      13       2
+                Storage.cs    function                        addCategory     255       3       1
+                Storage.cs    function                              files     261      12       2
+                Storage.cs    function                         categories     276      16       3
+                Storage.cs    function              deleteFilesAndFolders     298      34       6
+                Storage.cs    function                      deleteStorage     335       3       1
+                Storage.cs    function                      deleteStaging     341       3       1
+                Storage.cs    function                        testStorage     347       4       1
+                Storage.cs       class                        TestStorage     354     236      23
+                Storage.cs    function                  testCreateStorage     361      13       2
+                Storage.cs    function                  testDeleteStaging     377      23       2
+                Storage.cs    function                  testDeleteStorage     403      23       2
+                Storage.cs    function                        testAddFile     429      30       4
+                Storage.cs    function                   testRetrieveFile     462      26       2
+                Storage.cs    function                       testFindFile     491      40       4
+                Storage.cs    function                          testViews     534      28       5
+                Storage.cs    function                        testStorage     565      23       1
+                Storage.cs       class                            Program     593      18       2
+                Storage.cs    function                               Main     595      14       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     5 files

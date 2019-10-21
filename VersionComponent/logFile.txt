@@ -1,0 +1,38 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun  8 16:36:49 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      20
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Version.cs   namespace                PluggableRepository      32     155      19
+                Version.cs       class                            Version      34     137      16
+                Version.cs    function                         getVersion      44       8       1
+                Version.cs    function           restoreVersionsFromFiles      59      23       4
+                Version.cs    function                            Version      87      10       2
+                Version.cs    function                         hasVersion     100      10       2
+                Version.cs    function                      removeVersion     115      10       2
+                Version.cs    function                         addVersion     131       8       1
+                Version.cs    function                   getLatestVersion     142       8       1
+                Version.cs    function                        testVersion     153      16       1
+                Version.cs       class                        TestVersion     174      12       2
+                Version.cs    function                               Main     176       8       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     5 files

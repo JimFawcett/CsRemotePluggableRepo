@@ -1,0 +1,12 @@
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\FileNameEditor.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\FileNameEditor.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\FileNameEditor.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\obj\Debug\FileNameEditor.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\obj\Debug\FileNameEditor.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileNameEditor\obj\Debug\FileNameEditor.pdb

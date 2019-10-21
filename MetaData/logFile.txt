@@ -1,0 +1,36 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun  8 16:35:54 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\MetaData"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      31
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               MetaData.cs   namespace                PluggableRepository      40     194      30
+               MetaData.cs       class                           MetaData      42     174      25
+               MetaData.cs    function                           MetaData      54       7       1
+               MetaData.cs    function                               show      64      13       2
+               MetaData.cs    function                               save      80      55       4
+               MetaData.cs    function                               load     138      25       4
+               MetaData.cs    function                       testMetaData     164      50       6
+               MetaData.cs       class                       TestMetaData     217      17       4
+               MetaData.cs    function                               Main     219      13       3
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               MetaData.cs    function                               save      80      55       4
+
+
+
+    searched     8 dirs
+   processed     5 files

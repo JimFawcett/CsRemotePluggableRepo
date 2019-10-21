@@ -1,0 +1,31 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Sun Jun 11 15:15:10 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\Browse"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       7
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Browse.cs   namespace                PluggableRepository      14      23       6
+                 Browse.cs       class                             Browse      16      13       3
+                 Browse.cs    function                      testComponent      20       7       1
+                 Browse.cs       class                         TestBrowse      29       8       2
+                 Browse.cs    function                               Main      31       4       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     5 files

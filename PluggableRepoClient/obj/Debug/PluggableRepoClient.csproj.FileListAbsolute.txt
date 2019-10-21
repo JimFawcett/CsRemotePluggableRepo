@@ -1,0 +1,70 @@
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\jimfa\Desktop\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\non local\Desktop\Project3Sample\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\FileNameEditor.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\MetaData.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableCommService.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableRepo.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\Relationships.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\FileNameEditor.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\FileNameEditor.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\MetaData.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\MetaData.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableCommService.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableRepo.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\PluggableRepo.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\Relationships.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\Relationships.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb

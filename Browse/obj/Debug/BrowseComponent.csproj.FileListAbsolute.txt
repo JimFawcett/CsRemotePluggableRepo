@@ -1,0 +1,12 @@
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\BrowseComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\BrowseComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\BrowseComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Browse\obj\Debug\BrowseComponent.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Browse\obj\Debug\BrowseComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Browse\obj\Debug\BrowseComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\BrowseComponent.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\BrowseComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\BrowseComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Browse\obj\Debug\BrowseComponent.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Browse\obj\Debug\BrowseComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Browse\obj\Debug\BrowseComponent.pdb

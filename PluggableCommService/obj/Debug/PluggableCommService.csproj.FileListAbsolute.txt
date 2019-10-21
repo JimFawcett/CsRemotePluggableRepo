@@ -1,0 +1,45 @@
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe.config
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.pdb
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\IPluggable.dll
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\IService.dll
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\IPluggable.pdb
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\IPluggable.dll.config
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\IService.pdb
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\IService.dll.config
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.pdb
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.exe
+C:\Users\non local\Desktop\Project3Sample\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.pdb
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.exe
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\PluggableCommService.pdb
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\IService.dll
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\IService.pdb
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\IService.dll.config
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.exe
+C:\Users\jimfa\Desktop\Project4Sample\PluggableComm\PluggableCommService\obj\Debug\PluggableCommService.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\PluggableCommService.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\PluggableCommService.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\PluggableCommService.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\FileNameEditor.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\FileNameEditor.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\FileNameEditor.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\obj\Debug\PluggableCommService.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\obj\Debug\PluggableCommService.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableCommService\obj\Debug\PluggableCommService.pdb

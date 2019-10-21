@@ -1,0 +1,51 @@
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.exe.config
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.exe
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.pdb
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\bin\Debug\IPluggableComponent.dll
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\bin\Debug\IPluggableComponent.pdb
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.csprojResolveAssemblyReference.cache
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.exe
+C:\SU\temp\Desktop\PluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.exe.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.exe
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\IPluggable.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\MetaData.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\StorageComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\TestUtilities.exe
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\VersionComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\IPluggable.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\IPluggable.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\MetaData.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\MetaData.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\StorageComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\StorageComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\TestUtilities.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\TestUtilities.exe.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\bin\Debug\VersionComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.exe
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\PluggableRepo.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\MetaData.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\StorageComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\Relationships.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\MetaData.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\MetaData.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\StorageComponent.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\Relationships.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\bin\Debug\Relationships.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\PluggableRepo\obj\Debug\PluggableRepo.pdb

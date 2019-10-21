@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<packageMetaData>
+  <packageName>IPluggable.cs</packageName>
+  <author>Fawcett</author>
+  <isOpen>False</isOpen>
+  <fileSpec>project/IPluggable.cs.1</fileSpec>
+  <dateTime>7/15/2017 3:28:52 PM</dateTime>
+  <description>Pluggin Interfaces</description>
+  <dependencies />
+</packageMetaData>

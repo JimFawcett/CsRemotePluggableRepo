@@ -1,0 +1,21 @@
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\OwnershipComponent.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\OwnershipComponent.exe
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\OwnershipComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\IPluggableComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\IPluggableComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\IPluggableComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\OwnershipComponent\bin\Debug\TestUtilities.exe.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\OwnershipComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\OwnershipComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\OwnershipComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\OwnershipComponent\obj\Debug\OwnershipComponent.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\OwnershipComponent\obj\Debug\OwnershipComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\OwnershipComponent\obj\Debug\OwnershipComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\OwnershipComponent.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\OwnershipComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\OwnershipComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\OwnershipComponent\obj\Debug\OwnershipComponent.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\OwnershipComponent\obj\Debug\OwnershipComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\OwnershipComponent\obj\Debug\OwnershipComponent.pdb

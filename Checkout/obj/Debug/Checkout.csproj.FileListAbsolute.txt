@@ -1,0 +1,15 @@
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\Checkout.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\Checkout.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\Checkout.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\IPluggableComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\IPluggableComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\IPluggableComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\ComponentLibraries\Checkout.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\ComponentLibraries\Checkout.dll
+C:\Users\jimfa\Desktop\PluggableRepo\ComponentLibraries\Checkout.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\obj\Debug\Checkout.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\obj\Debug\Checkout.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\obj\Debug\Checkout.pdb

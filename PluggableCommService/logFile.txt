@@ -1,0 +1,75 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun 15 07:39:29 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableComm\PluggableCommService"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      76
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          BlockingQueue.cs   namespace                            SWTools      49      91      17
+          BlockingQueue.cs       class                      BlockingQueue      51      55      11
+          BlockingQueue.cs    function                      BlockingQueue      58       3       1
+          BlockingQueue.cs    function                                enQ      64       7       2
+          BlockingQueue.cs    function                               lock      66       4       1
+          BlockingQueue.cs    function                                deQ      77      12       3
+          BlockingQueue.cs    function                               lock      80       8       2
+          BlockingQueue.cs    function                               size      93       5       2
+          BlockingQueue.cs    function                               lock      94       2       1
+          BlockingQueue.cs    function                              clear     101       3       2
+          BlockingQueue.cs    function                               lock     101       2       1
+          BlockingQueue.cs       class                            Program     109      30       5
+          BlockingQueue.cs    function                               Main     111      26       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           PCommService.cs   namespace                PluggableRepository      65     511      58
+           PCommService.cs       class                           Receiver      70     101      16
+           PCommService.cs    function                           Receiver      79       4       1
+           PCommService.cs    function                              start      87       6       1
+           PCommService.cs    function                     createCommHost      98       7       1
+           PCommService.cs    function                        postMessage     108       5       1
+           PCommService.cs    function                         getMessage     116       8       2
+           PCommService.cs    function                              close     127       5       1
+           PCommService.cs    function                   openFileForWrite     135      13       3
+           PCommService.cs    function                     writeFileBlock     151      12       3
+           PCommService.cs    function                          closeFile     166       3       1
+           PCommService.cs       class                             Sender     174     155      21
+           PCommService.cs    function                             Sender     189       8       1
+           PCommService.cs    function                  createSendChannel     200       6       1
+           PCommService.cs    function                            connect     209       4       1
+           PCommService.cs    function                            connect     221      28       6
+           PCommService.cs    function                              close     252       4       1
+           PCommService.cs    function                         threadProc     262      25       5
+           PCommService.cs    function                        postMessage     290       3       1
+           PCommService.cs    function                           postFile     296      31       4
+           PCommService.cs       class                               Comm     332      34       5
+           PCommService.cs    function                               Comm     341       5       1
+           PCommService.cs    function                        postMessage     349       3       1
+           PCommService.cs    function                         getMessage     355       3       1
+           PCommService.cs    function                           postFile     361       3       1
+           PCommService.cs       class                   TestPCommService     369     207      15
+           PCommService.cs    function                  getClientFileList     373       9       2
+           PCommService.cs    function                        compareMsgs     387      17       2
+           PCommService.cs    function                   compareFileBytes     407      24       4
+           PCommService.cs    function                       testSndrRcvr     434      49       1
+           PCommService.cs    function                           testComm     486      70       4
+           PCommService.cs    function                               Main     559      15       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           PCommService.cs    function                           testComm     486      70       4
+
+
+
+    searched     8 dirs
+   processed     6 files

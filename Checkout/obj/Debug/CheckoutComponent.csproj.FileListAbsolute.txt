@@ -1,0 +1,35 @@
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\CheckoutComponent.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\CheckoutComponent.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\CheckoutComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\StorageComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\StorageComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\MetaData.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\OwnershipComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\MetaData.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\OwnershipComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\OwnershipComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\CheckinComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\CheckinComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Checkout\bin\Debug\CheckinComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\CheckoutComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\CheckoutComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\CheckoutComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Checkout\obj\Debug\CheckoutComponent.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Checkout\obj\Debug\CheckoutComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\Checkout\obj\Debug\CheckoutComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\CheckoutComponent.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\CheckoutComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\CheckoutComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Checkout\obj\Debug\CheckoutComponent.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Checkout\obj\Debug\CheckoutComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Checkout\obj\Debug\CheckoutComponent.pdb

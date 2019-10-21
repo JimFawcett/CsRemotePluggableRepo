@@ -1,0 +1,50 @@
+=======================================================================================================
+ Design Notes - Sample Project #4, Jim Fawcett, CSE681-OnLine, Summer 2017
+=======================================================================================================
+
+1. Main Parts:
+   ====================================================================================================
+   - Client > PluggableRepository and GUI
+     - PluggableRepository does all its work using pluggin components:
+         Checkin, Checkout, Storage, Version, Ownership, Browser
+       and using parts:
+         MetaData, FileNameEditor, FileSynchronizer, Relationships, TestUtilities
+    - GUI does all its work using:
+      - MainWindow for client control
+      - Window1 popup for viewing code and metadata
+      - PluggableRepository to manage all storage
+      - PluggableCommService for sending and receiving messages and sending files
+      - TestUtilities
+   ----------------------------------------------------------------------------------------------------
+   - Server > RepoServer is a container for shared Repository packages
+     - RepoServer does all remote file management, but no other repository activities (done in Client) using:
+       - RepoServer and Comm.Dispatcher
+       - PluggableCommService
+   ----------------------------------------------------------------------------------------------------
+   - PluggableCommService > sends messages and files from sender to receiver
+     - Uses WCF to build message-passing and file transfer services
+     - Each end, client and server, have a Comm class that holds a sender and receiver
+     - Uses dispatchers at each receiver to decode messages and invoke their commands
+   ====================================================================================================
+
+2. Processing Flow:
+   ====================================================================================================
+   - Initialization > load and activate pluggin components and initialize each view
+   ----------------------------------------------------------------------------------------------------
+   - Navigation     > Views source code and metadata partitioned into category folders
+   ----------------------------------------------------------------------------------------------------
+   - Checkout       > extracts dependency tree from root name and moves to StagingStorage
+   ----------------------------------------------------------------------------------------------------
+   - Checkin        > creates versioned metadata from client supplied info in StagingStorage
+                    > copies checkin file to versioned file in StagingStorage
+                    > moves both to Storage/category folder (category picked from available at checkin)
+   ----------------------------------------------------------------------------------------------------
+   - Message View   > starts comm listener, connects to remote server
+                    > monitors message flow
+   ----------------------------------------------------------------------------------------------------
+   - Admin          > adds and removes category directories
+                    > refreshes dependencyh relationship cache by traversing metadata files
+   ----------------------------------------------------------------------------------------------------
+   - Remote View    > views files in local storage and in remote server
+                    > synchronizes local and remote files with Comm file transfers
+   ====================================================================================================

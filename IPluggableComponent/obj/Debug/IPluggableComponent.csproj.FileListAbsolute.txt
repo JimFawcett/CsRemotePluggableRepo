@@ -1,0 +1,11 @@
+C:\SU\temp\Desktop\PluggableRepo\IPluggableComponent\obj\Debug\IPluggableComponent.csprojResolveAssemblyReference.cache
+C:\SU\temp\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggableComponent.dll.config
+C:\SU\temp\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggableComponent.dll
+C:\SU\temp\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggableComponent.pdb
+C:\SU\temp\Desktop\PluggableRepo\IPluggableComponent\obj\Debug\IPluggableComponent.dll
+C:\SU\temp\Desktop\PluggableRepo\IPluggableComponent\obj\Debug\IPluggableComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggableComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggableComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggableComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\obj\Debug\IPluggableComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\obj\Debug\IPluggableComponent.pdb

@@ -1,0 +1,395 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Jul 11 10:25:02 2017
+     Path: "C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     562
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  App.g.cs   namespace                PluggableRepoClient      35      35       4
+                  App.g.cs       class                                App      41      29       3
+                  App.g.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                  App.g.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                App.g.i.cs   namespace                PluggableRepoClient      35      35       4
+                App.g.i.cs       class                                App      41      29       3
+                App.g.i.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                App.g.i.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               App.xaml.cs   namespace                PluggableRepoClient      10       8       2
+               App.xaml.cs       class                                App      15       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Browse.cs   namespace                PluggableRepository      34      24       6
+                 Browse.cs       class                             Browse      36      14       3
+                 Browse.cs    function                      testComponent      40       8       1
+                 Browse.cs       class                         TestBrowse      50       8       2
+                 Browse.cs    function                               Main      52       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Checkin.cs   namespace                PluggableRepository      61     642      47
+                Checkin.cs       class                            Checkin      74     274      29
+                Checkin.cs    function                            Checkin      82       4       1
+                Checkin.cs    function                        stagingPath      89       3       1
+                Checkin.cs    function                        storagePath      95       3       1
+                Checkin.cs    function                  storageFolderSpec     104       9       1
+                Checkin.cs    function                    extractCategory     116       7       1
+                Checkin.cs    function                    extractFileName     126       7       1
+                Checkin.cs    function                       loadMetaData     139      17       2
+                Checkin.cs    function                          doCheckin     162      60       6
+                Checkin.cs    function                 findStoredMetaData     228      25       3
+                Checkin.cs    function                    showFoundStatus     256       7       1
+                Checkin.cs    function                       editMetadata     271      32       4
+                Checkin.cs    function                    addDependencies     308      29       3
+                Checkin.cs    function                      testComponent     342       4       1
+                Checkin.cs       class                        TestCheckin     351     352      17
+                Checkin.cs    function                        TestCheckin     357       6       1
+                Checkin.cs    function                          testSetup     366      13       1
+                Checkin.cs    function                   testPathHandling     384      34       1
+                Checkin.cs    function             testFindStoredMetaData     421      49       1
+                Checkin.cs    function                      testDoCheckin     477     109       5
+                Checkin.cs    function                   testEditMetadata     592      32       3
+                Checkin.cs    function                testAddDependencies     630      29       2
+                Checkin.cs    function                        testCheckin     662      25       1
+                Checkin.cs    function                               Main     689      12       1
+                Checkin.cs   namespace                PluggableRepository      61     618      44
+                Checkin.cs       class                            Checkin      74     250      26
+                Checkin.cs    function                            Checkin      82       4       1
+                Checkin.cs    function                        stagingPath      89       3       1
+                Checkin.cs    function                        storagePath      95       3       1
+                Checkin.cs    function                  storageFolderSpec     104       9       1
+                Checkin.cs    function                    extractCategory     116       7       1
+                Checkin.cs    function                    extractFileName     126       7       1
+                Checkin.cs    function                       loadMetaData     139      17       2
+                Checkin.cs    function                          doCheckin     162      36       3
+                Checkin.cs    function                 findStoredMetaData     204      25       3
+                Checkin.cs    function                    showFoundStatus     232       7       1
+                Checkin.cs    function                       editMetadata     247      32       4
+                Checkin.cs    function                    addDependencies     284      29       3
+                Checkin.cs    function                      testComponent     318       4       1
+                Checkin.cs       class                        TestCheckin     327     352      17
+                Checkin.cs    function                        TestCheckin     333       6       1
+                Checkin.cs    function                          testSetup     342      13       1
+                Checkin.cs    function                   testPathHandling     360      34       1
+                Checkin.cs    function             testFindStoredMetaData     397      49       1
+                Checkin.cs    function                      testDoCheckin     453     109       5
+                Checkin.cs    function                   testEditMetadata     568      32       3
+                Checkin.cs    function                testAddDependencies     606      29       2
+                Checkin.cs    function                        testCheckin     638      25       1
+                Checkin.cs    function                               Main     665      12       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Checkout.cs   namespace                PluggableRepository      45     194      22
+               Checkout.cs       class                           Checkout      59      86      14
+               Checkout.cs    function                           Checkout      65       4       1
+               Checkout.cs    function                    extractCategory      70       6       1
+               Checkout.cs    function                    extractFileName      78       6       1
+               Checkout.cs    function               retrieveDependencies      86      31       3
+               Checkout.cs    function                         doCheckout     119      18       3
+               Checkout.cs    function                      testComponent     138       5       1
+               Checkout.cs       class                       TestCheckout     148      91       7
+               Checkout.cs    function                       TestCheckout     153       2       1
+               Checkout.cs    function                          testSetup     157       2       1
+               Checkout.cs    function             testExtractFileRefInfo     161      28       1
+               Checkout.cs    function                     testDoCheckout     191      15       1
+               Checkout.cs    function                       testCheckout     208      14       1
+               Checkout.cs    function                               Main     224      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         CodeWindow.g.i.cs   namespace                PluggableRepoClient      35     120       6
+         CodeWindow.g.i.cs       class                            Window1      41     114       5
+         CodeWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     106      13       2
+         CodeWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     126      27       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             IPluggable.cs   namespace                PluggableRepository      30     127      41
+             IPluggable.cs      struct                    RepoEnvironment      40      14       8
+              public data: public const string componentsPath = "../../../ComponentLibraries" ; 
+              public data: public const string storagePath = "../../../Storage/" ; 
+              public data: public const string stagingPath = "../../../StagingStorage/" ; 
+              public data: public const string categories = "Categories.xml" ; 
+             IPluggable.cs      struct                  ClientEnvironment      55       6       4
+             IPluggable.cs       class                             Result      62       5       3
+             IPluggable.cs   interface                          IMetaData      68      13       8
+             IPluggable.cs   interface                         IPluggable      83       4       2
+             IPluggable.cs   interface                           IStorage      89      16       1
+             IPluggable.cs   interface                           IVersion     107       9       1
+             IPluggable.cs       class                        CheckinInfo     118      10       8
+             IPluggable.cs   interface                           ICheckin     129       8       2
+             IPluggable.cs   interface                          ICheckout     139       6       1
+             IPluggable.cs   interface                            IBrowse     147       3       1
+             IPluggable.cs   interface                         IOwnership     152       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           MainWindow.g.cs   namespace                PluggableRepoClient      35     748       6
+           MainWindow.g.cs       class                         MainWindow      41     742       5
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     474      13       2
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     494     287       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         MainWindow.g.i.cs   namespace                PluggableRepoClient      35     748       6
+         MainWindow.g.i.cs       class                         MainWindow      41     742       5
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     474      13       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     494     287       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                PluggableRepoClient      43     483      64
+        MainWindow.xaml.cs       class                         MainWindow      49     477      63
+        MainWindow.xaml.cs    function                         MainWindow      70       3       1
+        MainWindow.xaml.cs    function                      Window_Loaded      76      25       1
+        MainWindow.xaml.cs    function                 Window_SizeChanged     103       3       1
+        MainWindow.xaml.cs    function             initializeFilesListBox     113       9       2
+        MainWindow.xaml.cs    function              initializeDepsListBox     125       3       1
+        MainWindow.xaml.cs    function      filesListBox_SelectionChanged     132       9       2
+        MainWindow.xaml.cs    function                  childButton_Click     144      10       2
+        MainWindow.xaml.cs    function                 parentButton_Click     157       7       1
+        MainWindow.xaml.cs    function         showCategoriesButton_Click     169      10       2
+        MainWindow.xaml.cs    function                          addXmlExt     182      10       2
+        MainWindow.xaml.cs    function                       removeXmlExt     195       8       2
+        MainWindow.xaml.cs    function                           showFile     206      26       5
+        MainWindow.xaml.cs    function      filesListBox_MouseDoubleClick     235      59       7
+        MainWindow.xaml.cs    function                     Window_Closing     297       4       1
+        MainWindow.xaml.cs    function        initializeMetadataTextBlock     308       3       1
+        MainWindow.xaml.cs    function               clearMsgButton_Click     318       6       1
+        MainWindow.xaml.cs    function                    sndButton_Click     327      10       1
+        MainWindow.xaml.cs    function                    rcvButton_Click     340       3       1
+        MainWindow.xaml.cs    function                    initializeChkIn     350      12       2
+        MainWindow.xaml.cs    function                 BrowseButton_Click     363      31       4
+        MainWindow.xaml.cs    function              ChkInCatsButton_Click     396       4       1
+        MainWindow.xaml.cs    function         RepoFiles_MouseDoubleClick     402      25       5
+        MainWindow.xaml.cs    function         ChkInDeps_MouseDoubleClick     428       4       1
+        MainWindow.xaml.cs    function                  ChkInButton_Click     434      24       2
+        MainWindow.xaml.cs    function         RepoFiles_SelectionChanged     460      15       4
+        MainWindow.xaml.cs    function             ChkInClearButton_Click     477       8       1
+        MainWindow.xaml.cs    function                    InitializeAdmin     490       9       2
+        MainWindow.xaml.cs    function              AdminCatsButton_Click     500       4       1
+        MainWindow.xaml.cs    function         AdminModifyCatButton_Click     506      18       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               MetaData.cs   namespace                PluggableRepository      47     239      33
+               MetaData.cs       class                           MetaData      59     212      30
+               MetaData.cs    function                           MetaData      72       7       1
+               MetaData.cs    function                           MetaData      82       7       1
+               MetaData.cs    function                               show      92      14       2
+               MetaData.cs    function                            showStr     109      15       2
+               MetaData.cs    function                               save     127      55       4
+               MetaData.cs    function                               load     185      25       4
+               MetaData.cs    function                       testMetaData     213      49       6
+               MetaData.cs    function                      testComponent     263       6       1
+               MetaData.cs       class                       TestMetaData     274      12       2
+               MetaData.cs    function                               Main     277       6       1
+               MetaData.cs   namespace                PluggableRepository      47     221      31
+               MetaData.cs       class                           MetaData      59     194      28
+               MetaData.cs    function                           MetaData      72       7       1
+               MetaData.cs    function                           MetaData      82       7       1
+               MetaData.cs    function                               show      92      14       2
+               MetaData.cs    function                               save     109      55       4
+               MetaData.cs    function                               load     167      25       4
+               MetaData.cs    function                       testMetaData     195      49       6
+               MetaData.cs    function                      testComponent     245       6       1
+               MetaData.cs       class                       TestMetaData     256      12       2
+               MetaData.cs    function                               Main     259       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              Ownership.cs   namespace                PluggableRepository      38      38       8
+              Ownership.cs       class                          Ownership      47      19       5
+              Ownership.cs    function                    saveCredentials      51       3       1
+              Ownership.cs    function                       isAuthorized      55       3       1
+              Ownership.cs    function                      testComponent      59       5       1
+              Ownership.cs       class                      TestOwnership      66      10       2
+              Ownership.cs    function                               Main      68       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          PluggableRepo.cs   namespace                PluggableRepository      39     211      25
+          PluggableRepo.cs       class                      PluggableRepo      46     204      24
+          PluggableRepo.cs    function                      PluggableRepo      58       2       1
+          PluggableRepo.cs    function                     ~PluggableRepo      63       2       1
+          PluggableRepo.cs    function          loadAndActivateComponents      68      86      11
+          PluggableRepo.cs    function                          getBrowse     157       3       1
+          PluggableRepo.cs    function                        getCheckout     163       3       1
+          PluggableRepo.cs    function                         getCheckin     169       3       1
+          PluggableRepo.cs    function                         getStorage     175       3       1
+          PluggableRepo.cs    function                         getVersion     181       3       1
+          PluggableRepo.cs    function                       getOwnership     187       3       1
+          PluggableRepo.cs    function                               Main     199      49       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          Relationships.cs   namespace                PluggableRepository      29     227      42
+          Relationships.cs       class                         Dependency      36      85      17
+          Relationships.cs    function                        getChildren      41       6       1
+          Relationships.cs    function                           addChild      49      16       4
+          Relationships.cs    function                       showChildren      67      12       3
+          Relationships.cs    function                         getParents      81       6       1
+          Relationships.cs    function                          addParent      89      16       4
+          Relationships.cs    function                        showParents     106      12       3
+          Relationships.cs       class                       VersionChain     122      70      14
+          Relationships.cs    function                         addVersion     126      22       5
+          Relationships.cs    function                        getVersions     150       6       1
+          Relationships.cs    function                   getLatestVersion     161      16       4
+          Relationships.cs    function                               show     179      11       3
+          Relationships.cs       class                  TestRelationships     193      63      10
+          Relationships.cs    function                               Main     195      59       9
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+     Resources.Designer.cs   namespace                PluggableRepoClient      12      60       9
+     Resources.Designer.cs       class                          Resources      26      46       8
+     Resources.Designer.cs    function           SuppressMessageAttribute      34       2       1
+     Resources.Designer.cs    function           EditorBrowsableAttribute      42      11       3
+     Resources.Designer.cs    function           EditorBrowsableAttribute      60      10       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+      Settings.Designer.cs   namespace                PluggableRepoClient      12      19       4
+      Settings.Designer.cs       class                           Settings      18      13       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Storage.cs   namespace                PluggableRepository      60     657      83
+                Storage.cs       class                            Storage      69     366      53
+                Storage.cs    function                            Storage      76       9       2
+                Storage.cs    function                           ~Storage      88       3       1
+                Storage.cs    function                      createStorage      94       9       2
+                Storage.cs    function                        stagingPath     106       3       1
+                Storage.cs    function                    stagingFilePath     112       3       1
+                Storage.cs    function                        storagePath     118       3       1
+                Storage.cs    function                    storageFilePath     124       3       1
+                Storage.cs    function                            addFile     140      30       5
+                Storage.cs    function                         modifyFile     183      33       5
+                Storage.cs    function                       retrieveFile     221      13       2
+                Storage.cs    function                           findFile     237      21       4
+                Storage.cs    function                       findVersions     261      11       2
+                Storage.cs    function                         deleteFile     275       3       1
+                Storage.cs    function                     loadCategories     284      18       4
+                Storage.cs    function                     saveCategories     305      13       2
+                Storage.cs    function                        addCategory     321       3       1
+                Storage.cs    function                              files     327      12       2
+                Storage.cs    function                    uniqueFileNames     342      11       2
+                Storage.cs    function                         categories     356      16       3
+                Storage.cs    function              deleteFilesAndFolders     378      36       6
+                Storage.cs    function                      deleteStorage     417       3       1
+                Storage.cs    function                      deleteStaging     423       3       1
+                Storage.cs    function                      testComponent     429       4       1
+                Storage.cs       class                        TestStorage     436     261      27
+                Storage.cs    function                  testCreateStorage     443      12       2
+                Storage.cs    function                  testDeleteStaging     458      22       2
+                Storage.cs    function                  testDeleteStorage     483      22       2
+                Storage.cs    function                        testAddFile     508      28       4
+                Storage.cs    function                   testRetrieveFile     539      25       2
+                Storage.cs    function                       testFindFile     567      39       4
+                Storage.cs    function                   testFindVersions     609      30       5
+                Storage.cs    function                          testViews     642      25       4
+                Storage.cs    function                        testStorage     670      25       1
+                Storage.cs       class                            Program     700      16       2
+                Storage.cs    function                               Main     702      12       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestUtilities.cs   namespace                PluggableRepository      34     104      18
+          TestUtilities.cs       class                      TestUtilities      36     102      17
+          TestUtilities.cs    function                        checkResult      40       8       1
+          TestUtilities.cs    function                          checkNull      51      10       2
+          TestUtilities.cs    function                       handleInvoke      70      16       4
+          TestUtilities.cs    function                              title      89       4       1
+          TestUtilities.cs    function                            vbtitle      96       7       2
+          TestUtilities.cs    function                            putLine     106       9       2
+          TestUtilities.cs    function                               Main     121      15       4
+          TestUtilities.cs   namespace                PluggableRepository      34     104      18
+          TestUtilities.cs       class                      TestUtilities      36     102      17
+          TestUtilities.cs    function                        checkResult      40       8       1
+          TestUtilities.cs    function                          checkNull      51      10       2
+          TestUtilities.cs    function                       handleInvoke      70      16       4
+          TestUtilities.cs    function                              title      89       4       1
+          TestUtilities.cs    function                            vbtitle      96       7       2
+          TestUtilities.cs    function                            putLine     106       9       2
+          TestUtilities.cs    function                               Main     121      15       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Version.cs   namespace                PluggableRepository      38     171      21
+                Version.cs       class                            Version      49     144      18
+                Version.cs    function                         getVersion      59       8       1
+                Version.cs    function           restoreVersionsFromFiles      74      23       4
+                Version.cs    function      restoreVersionsFromCategories      99       7       2
+                Version.cs    function                            Version     111      12       2
+                Version.cs    function                         hasVersion     126      10       2
+                Version.cs    function                      removeVersion     141      10       2
+                Version.cs    function                         addVersion     157       8       1
+                Version.cs    function                   getLatestVersion     168       8       1
+                Version.cs    function                      testComponent     179      12       1
+                Version.cs       class                        TestVersion     196      12       2
+                Version.cs    function                               Main     198       8       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              Window1.g.cs   namespace                PluggableRepoClient      35     126       6
+              Window1.g.cs       class                            Window1      41     120       5
+              Window1.g.cs    function       DebuggerNonUserCodeAttribute     106      13       2
+              Window1.g.cs    function       DebuggerNonUserCodeAttribute     126      33       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Window1.g.i.cs   namespace                PluggableRepoClient      35     126       6
+            Window1.g.i.cs       class                            Window1      41     120       5
+            Window1.g.i.cs    function       DebuggerNonUserCodeAttribute     106      13       2
+            Window1.g.i.cs    function       DebuggerNonUserCodeAttribute     126      33       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           Window1.xaml.cs   namespace                PluggableRepoClient      36      36       5
+           Window1.xaml.cs       class                            Window1      41      31       4
+           Window1.xaml.cs    function                            Window1      46      15       1
+           Window1.xaml.cs    function                           showCode      63       3       1
+           Window1.xaml.cs    function                   exitButton_Click      67       3       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Checkin.cs    function                          doCheckin     162      60       6
+                Checkin.cs    function                      testDoCheckin     477     109       5
+                Checkin.cs    function                      testDoCheckin     453     109       5
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     494     287       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     494     287       2
+        MainWindow.xaml.cs    function      filesListBox_MouseDoubleClick     235      59       7
+               MetaData.cs    function                               save     127      55       4
+               MetaData.cs    function                               save     109      55       4
+          PluggableRepo.cs    function          loadAndActivateComponents      68      86      11
+          Relationships.cs    function                               Main     195      59       9
+
+              public data: IPluggable.cs : 41 - struct RepoEnvironment
+                public const string componentsPath = "../../../ComponentLibraries" ; 
+              public data: IPluggable.cs : 42 - struct RepoEnvironment
+                public const string storagePath = "../../../Storage/" ; 
+              public data: IPluggable.cs : 43 - struct RepoEnvironment
+                public const string stagingPath = "../../../StagingStorage/" ; 
+              public data: IPluggable.cs : 44 - struct RepoEnvironment
+                public const string categories = "Categories.xml" ; 
+
+
+    searched   112 dirs
+   processed    74 files

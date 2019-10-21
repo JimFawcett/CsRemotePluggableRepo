@@ -1,0 +1,48 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun  8 16:35:39 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      28
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             IPluggable.cs   namespace                PluggableRepository      27      88      27
+             IPluggable.cs      struct                    RepoEnvironment      31      12       6
+              public data: public const string componentsPath = "../../../ComponentLibraries" ; 
+              public data: public const string storagePath = "../../../Storage/" ; 
+              public data: public const string stagingPath = "../../../StagingStorage/" ; 
+              public data: public const string categories = "Categories.xml" ; 
+             IPluggable.cs      struct                  ClientEnvironment      44       6       4
+             IPluggable.cs   interface                         IPluggable      51       3       2
+             IPluggable.cs   interface                           IStorage      56      16       1
+             IPluggable.cs   interface                           IVersion      74       9       1
+             IPluggable.cs       class                        CheckinInfo      85      10       8
+             IPluggable.cs   interface                           ICheckin      96       8       2
+             IPluggable.cs   interface                          ICheckout     106       3       1
+             IPluggable.cs   interface                            IBrowse     111       3       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: IPluggable.cs : 32 - struct RepoEnvironment
+                public const string componentsPath = "../../../ComponentLibraries" ; 
+              public data: IPluggable.cs : 33 - struct RepoEnvironment
+                public const string storagePath = "../../../Storage/" ; 
+              public data: IPluggable.cs : 34 - struct RepoEnvironment
+                public const string stagingPath = "../../../StagingStorage/" ; 
+              public data: IPluggable.cs : 35 - struct RepoEnvironment
+                public const string categories = "Categories.xml" ; 
+
+
+    searched     8 dirs
+   processed     5 files

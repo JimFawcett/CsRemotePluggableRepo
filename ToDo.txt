@@ -1,0 +1,85 @@
+=======================================================================================================
+ PluggableRepo ToDo:
+
+ Sample Project #4, Jim Fawcett, CSE681-OnLine, Summer 2017
+=======================================================================================================
+15. Review all Path.combine(...)s to ensure that FileSpecs are correct. Use FileNameEditor.pathCombine
+    Review all status bar messages to insure they are up-t0-date
+16. Add simple authentication
+20. Add login and storage of credentials (no encryption)
+24. start and stop listening by removing or adding endpoint, e.g., 
+      https://stackoverflow.com/questions/547287/stop-start-wcf-mex-service-at-runtime
+25. Review Required Files statements in each package, as some are out of date
+26. invoke Comm.Sender.Connect(...) using delegate.BeginInvoke to run on child thread
+27. Find way to run WCF without admin priv, e.g.:
+      https://stackoverflow.com/questions/14962334/httplistenerexception-access-denied-for-non-admins
+      https://www.codeproject.com/Articles/18601/An-easy-way-to-use-certificates-for-WCF-security#Quick_start_tutorial
+28. synch files automatically when starting client (at least in categories configured in Admin view)
+29. add refresh for RemoteView lists
+30. send closed checkins to RepoServer automatically (now only do that manually in Remote view)
+31. remove synch remote checkbox in Navigation view
+32. finish refactoring project code
+    - move all file name manipulation to FileNameEditor
+    - use Storage.categories() and Storage.files(category) for all access to that data
+33. consider eventually restructuring into ModelViewController with ViewModel as part of GUI
+    - current pluggable module-based structure has worked well during development
+    - use of dispatcher to decode messages and invoke needed operations proved to work very well
+    - but code size is approaching the point where reorganization would improve maintainability
+    - I expect to use this Repository for my own code control, so it will be interesting 
+      to see how maintainable it is, and how its structure evolves.
+-------------------------------------------------------------------------
+  Saving completed actions, below, illustrates how incremental development
+  was implemented for this project.
+
+  Deprecated items are parts of the concept that turned out,
+  as the implementation progressed, to be: unnecessary, too complicated,
+  or were replaced by better ideas.
+-------------------------------------------------------------------------
+1. Move categories from Repo to Storage - done
+2. Checkin component
+   - metadata generator - done
+   - doCheckin(category, mdFile) - done
+   - addReference(category, mdFile) - done
+   - testDoCheckin - done
+   - testCheckinComp - done
+4. Define FileName, FileRef, FileSpec as strings - done
+6. Add Ownership component - done
+9. TestUtilities - done
+   - add verbose title vbtitle - displays only if verbose - done
+11. Move Category modification to Admin Tab - done
+13. Caching of versions, children, and parents
+   - Fill dictionaries at startup - done
+   - add to each on checkin - done
+3. Define Result with bool success and string msg - deprecated
+5. Checkin
+   - add update - creates new metadata version with orig fileSpec, new deps - done
+   - revise to use Result - deprecated
+7. Checkout component
+   - build metadata scanner - done
+8. Browse component
+   - build dependency iterator - deprecated
+12. Relationships
+   - use dictionaries to hold package childred and parents - done
+   - use for Navigation and Checkout - done
+14. Show FileSpecs in Navigation Files and Folders listbox - deprecated
+   - will require fixup for Window1 view 
+17. Add communication channel for remote clients - done
+19. Add staging area handling for multiple concurrent clients
+    - may elect to send immediately, rather than stage, so this processing won't be needed - deprecated
+21. make path to storage have user insert, e..g., ../../../userCred/Storage
+    - that supports having both server repository (serverCred) and user repository on same machine - deprecated
+      used different storage paths for server and client
+10. MetaData
+   - convert MetaData load and save to use handleInvoke - deprecated.  Simple to do, to make code slightly more
+     internally consistent, but not worth the small investment, right now.
+22. implement synchronization of user and server repositories using WCF channels - done
+23. user specifies categories to synchronize 
+    - can't checkin to, or checkout from, non-synchronized categories - deferred implementation
+    - could specify synch categories with XML file that is read at start and written at shutdown
+    - each closed checkin (send checkin to server) and checkout (get server files - see below) causes a resynch - deferred
+    - has manual resynch on admin tab as well - now done on RemoteView tab
+    - add or remove synch categories on admin tab - done
+    - starting client also triggers resynch - deferred
+    - synch validation via byte comparison of files - deferred
+    - synch sends from server any files user doesn't have and also all open checkin files - done
+    - may want to allow open checkins only on the local storage, but not on the server - deferred

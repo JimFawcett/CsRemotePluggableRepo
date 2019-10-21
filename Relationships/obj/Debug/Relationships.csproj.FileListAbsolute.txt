@@ -1,0 +1,15 @@
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\Relationships.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\Relationships.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\Relationships.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\Relationships\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\Relationships.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\Relationships.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\Relationships.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Relationships\obj\Debug\Relationships.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Relationships\obj\Debug\Relationships.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\Relationships\obj\Debug\Relationships.pdb

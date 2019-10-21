@@ -1,0 +1,18 @@
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\bin\Debug\TestUtilities.exe
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\bin\Debug\IPluggable.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\bin\Debug\IPluggable.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\bin\Debug\IPluggable.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\obj\Debug\TestUtilities.exe
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\TestUtilities\obj\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\obj\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\TestUtilities\obj\Debug\TestUtilities.pdb

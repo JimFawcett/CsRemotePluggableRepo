@@ -1,0 +1,15 @@
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\PluggableRepo\IPluggableComponent\bin\Debug\IPluggable.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\IPluggable.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\IPluggable.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\IPluggable.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\IPluggableComponent\obj\Debug\IPluggable.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\IPluggableComponent\obj\Debug\IPluggable.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\IPluggableComponent\obj\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\IPluggableComponent\obj\Debug\IPluggable.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\IPluggableComponent\obj\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\IPluggableComponent\obj\Debug\IPluggable.pdb

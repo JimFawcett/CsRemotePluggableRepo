@@ -1,0 +1,26 @@
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\VersionComponent.exe
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\IPluggableComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\IPluggableComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\IPluggableComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\VersionComponent\bin\Debug\TestUtilities.exe.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\VersionComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\VersionComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\VersionComponent\obj\Debug\VersionComponent.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\VersionComponent\obj\Debug\VersionComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\VersionComponent\obj\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\VersionComponent\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\VersionComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\VersionComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\VersionComponent\obj\Debug\VersionComponent.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\VersionComponent\obj\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\VersionComponent\obj\Debug\VersionComponent.pdb

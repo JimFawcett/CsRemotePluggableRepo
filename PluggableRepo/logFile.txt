@@ -1,0 +1,38 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Jun  8 16:36:07 2017
+     Path: "C:\Users\jimfa\Desktop\PluggableRepo\PluggableRepo"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      24
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          PluggableRepo.cs   namespace                PluggableRepository      37     180      23
+          PluggableRepo.cs       class                      PluggableRepo      44     173      22
+          PluggableRepo.cs    function                      PluggableRepo      54       2       1
+          PluggableRepo.cs    function                     ~PluggableRepo      59       2       1
+          PluggableRepo.cs    function          loadAndActivateComponents      64      72      10
+          PluggableRepo.cs    function                          getBrowse     139       3       1
+          PluggableRepo.cs    function                        getCheckout     145       3       1
+          PluggableRepo.cs    function                         getCheckin     151       3       1
+          PluggableRepo.cs    function                         getStorage     157       3       1
+          PluggableRepo.cs    function                         getVersion     163       3       1
+          PluggableRepo.cs    function                               Main     169      46       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          PluggableRepo.cs    function          loadAndActivateComponents      64      72      10
+
+
+
+    searched     8 dirs
+   processed     5 files

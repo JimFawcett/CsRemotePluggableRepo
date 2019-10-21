@@ -1,0 +1,15 @@
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\Browse.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\Browse.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\Browse.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\IPluggableComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\IPluggableComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\IPluggableComponent.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\ComponentLibraries\Browse.dll.config
+C:\Users\jimfa\Desktop\PluggableRepo\ComponentLibraries\Browse.dll
+C:\Users\jimfa\Desktop\PluggableRepo\ComponentLibraries\Browse.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\obj\Debug\Browse.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\obj\Debug\Browse.dll
+C:\Users\jimfa\Desktop\PluggableRepo\Browse\obj\Debug\Browse.pdb

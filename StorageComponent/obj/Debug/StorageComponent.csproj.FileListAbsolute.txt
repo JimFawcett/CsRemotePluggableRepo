@@ -1,0 +1,49 @@
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\obj\Debug\StorageComponent.csprojResolveAssemblyReference.cache
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\bin\Debug\StorageComponent.exe.config
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\bin\Debug\StorageComponent.exe
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\bin\Debug\StorageComponent.pdb
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\bin\Debug\IPluggableComponent.dll
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\bin\Debug\IPluggableComponent.pdb
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\obj\Debug\StorageComponent.exe
+C:\SU\temp\Desktop\PluggableRepo\StorageComponent\obj\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\StorageComponent.exe.config
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\StorageComponent.exe
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\PluggableRepo\StorageComponent\bin\Debug\IPluggable.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\StorageComponent.dll.config
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\StorageComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\ComponentLibraries\StorageComponent.pdb
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\StorageComponent\obj\Debug\StorageComponent.csprojResolveAssemblyReference.cache
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\StorageComponent\obj\Debug\StorageComponent.dll
+C:\Users\non local\Desktop\Project2Sample\PluggableRepo\StorageComponent\obj\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\StorageComponent.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\StorageComponent.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\StorageComponent.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\VersionComponent.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\MetaData.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\MetaData.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\VersionComponent.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\Relationships.pdb
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\MetaData.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\Relationships.dll
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\MetaData.dll.config
+C:\Users\jimfa\Desktop\Project4Sample\RemotePluggableRepo\StorageComponent\bin\Debug\Relationships.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\StorageComponent.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\StorageComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\ComponentLibraries\StorageComponent.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\StorageComponent\obj\Debug\StorageComponent.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\StorageComponent\obj\Debug\StorageComponent.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\StorageComponent\obj\Debug\StorageComponent.pdb

@@ -1,0 +1,12 @@
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\FileSynchronizer.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\FileSynchronizer.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\FileSynchronizer.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\IPluggable.dll
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\TestUtilities.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\IPluggable.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\IPluggable.dll.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\TestUtilities.pdb
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\bin\Debug\TestUtilities.exe.config
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\obj\Debug\FileSynchronizer.csprojResolveAssemblyReference.cache
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\obj\Debug\FileSynchronizer.exe
+C:\Users\jimfa\Desktop\RemotePluggableRepo\FileSynchronizer\obj\Debug\FileSynchronizer.pdb

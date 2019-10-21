@@ -1,0 +1,51 @@
+=======================================================================================================
+ PluggableRepo Build Instructions:
+ 
+ Sample Project #4, Jim Fawcett, CSE681-OnLine, Summer 2017
+=======================================================================================================
+ - Each of the Components: Browser, Checkin, Checkout, Ownership, Storage, and Version, build as either 
+   libraries or console applications.
+
+------------------------------------------------------------------------------------------------------- 
+ - To run a project as the startup project (stand-alone operation), build as console application, e.g., set
+     Properties > Application > "Output type" to console application
+     Properties > Build > "Output path" to bin\debug for that project
+     Properties > Build > "Conditional Compilation Symbols" to TEST_PACKAGENAME where PACKAGENAME is the 
+     project's primary file name 
+
+------------------------------------------------------------------------------------------------------- 
+ - To run a project as part of the Pluggable Repository, build as a library, e.g., set
+     Properties > Application > "Output type" to class library
+     Properties > Build > "Output path" to ..\ComponentLibraries\
+     Properties > Build > "Conditional Compilation Symbols" to empty
+   This places the built library dll into the directory where the Repository will look to load its components.
+
+------------------------------------------------------------------------------------------------------- 
+ - To build the repository, simply build each of the components as a library, as above,
+   then right-click on the solution and rebuild all.
+
+------------------------------------------------------------------------------------------------------- 
+ - PluggableRepoClient and RepoServer are the main applications and should be built as executables.
+   set RepoServer Properties > Application > "Output type" to Console Application
+   set PluggableRepoClient properties > Application > "Output type" to Console Application (see its operation messages)
+   set PluggableRepoClient properties > Application > "Output type" to Windows Application (hide operation messages)
+   right-click on Solution > Set Startup Projects > Multiple Startup Projects > set PluggableRepoClient and RepoServer to start
+
+=======================================================================================================
+ Note: You must run Visual Studio "as administrator" or server fails to start due to WCF security exceptions.
+ To do that you may:
+ - use Windows search to find Visual Studio 2017 > right click > select run as administrator
+ - Pin Visual Studio 2017 to Windows task bar > right click on icon > select run as administrator
+ - Use two batch files: 
+     first has statements: 
+       start path/PluggableRepoClient.exe - runs asynchronously, needs full path to exe
+       start path/RepoServer.exe          - ditto
+     second has statement:
+       runas /user:Administrator FirstBatchFile.bat
+  See:
+    https://stackoverflow.com/questions/6811372/how-to-code-a-bat-file-to-always-run-as-admin-mode
+
+=======================================================================================================
+Note: This project was built with Visual Studio 2017.  You will have to use that to
+successfully build this solution.  If you do a web search for "Visual Studio Community Edition",
+you will find a free download.  It takes about 2 Gb of space and a hour or so to install.
